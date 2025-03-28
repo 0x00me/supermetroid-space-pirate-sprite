@@ -2,9 +2,25 @@
 
 This is the repository for Space Pirate sprite sheet for Super Metroid, intended for any hackrom, vanilla or map randomizer roms. 
 
+
+## Space Pirate power suite
+
+![sp_v15_green](https://github.com/user-attachments/assets/12ff5998-b2e8-4b01-be6a-dd10b01739c9)
+
+## Space Pirate varia suite
+
+![sp_v15_yellow](https://github.com/user-attachments/assets/df5248e9-e09e-4f74-ba0c-11de99521d04)
+
+## Space Pirate gravity suite
+
+![sp_v15_pink](https://github.com/user-attachments/assets/182f78ad-295a-433b-9ef4-6b077991d665)
+
+
+## Credits and License
+
 This sprite is based on the work of the user Barack Obama from The Spriters Resource
 https://www.spriters-resource.com/snes/smetroid/sheet/181330/
 
 Feel free to use it in any project. 
 
-If you want make any suggestion, please do a pull request.
+If you want to make any suggestions, please do a pull request.
