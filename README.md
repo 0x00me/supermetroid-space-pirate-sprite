@@ -2,7 +2,7 @@
 
 This is the repository for the Space Pirate sprite sheet for Super Metroid, intended for any hackrom, vanilla, or map randomizer roms. 
 
-## Space Pirate menu
+## Space Pirate Menu
 
 ![sp_v15_menu](https://github.com/user-attachments/assets/bd95d567-832d-490e-9d7a-872015858538)
 
